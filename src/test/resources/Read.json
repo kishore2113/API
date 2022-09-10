@@ -1,0 +1,29 @@
+{
+	"name": "RamSarath",
+	"role": "QA",
+	"courses": [
+		"Java",
+		"Selenium",
+		"Framework"
+	],
+	"address":{
+	"city":"Chennai",
+	"state":"Tamil Nadu",
+	"country":"India"	
+	},
+	"employees":[
+	{
+	"name":"Ramesh",
+	"id":20,
+	"status":true
+	},
+	{
+	"name":"Bala",
+	"id":45,
+	"status":false
+	}
+	
+	
+	]
+	
+}
